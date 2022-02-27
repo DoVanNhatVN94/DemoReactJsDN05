@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "wmaurer.change-case",
+        "geeebe.duplicate",
+        "equimper.react-native-react-redux",
+        "dbaeumer.vscode-eslint",
+        "planbcoding.vscode-react-refactor",
+        "eg2.vscode-npm-script",
+        "dsznajder.es7-react-js-snippets",
+        "riazxrazor.html-to-jsx"
+    ]
+}
